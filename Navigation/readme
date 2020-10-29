@@ -1,0 +1,7 @@
+The navigation algorithm makes use of IMU sensor, drop detection sensors and Wheel encoders for navigations.
+
+Features implemented:
+---------- PI control for straight path navigation
+---------- Edge Following
+---------- Corner Detection
+---------- Inner Area Coverage
